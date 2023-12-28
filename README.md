@@ -15,19 +15,17 @@
 
 • here the players have two options whether to play another round or exit the game .
 
-- Main functions and interrupts :
--
 
-- Installing:
-  •	You can download the game form our website:
-  
-- Executing program:
-  • You will need to download GUI turbo assembler in your pc to run the game.
+
+- Made using DOS video Graphics 
+   
+
+
 
 - Help:
   •	Contact info :
      -ornagenooor@gmail.com
-     -
+     -nadakhaled248@icloud.com
 
 
 
